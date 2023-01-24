@@ -1,4 +1,4 @@
-# node-nix-env
+# nix-dev-env-example
 
 Created as an example of using nix-shell for dev environments.
 
