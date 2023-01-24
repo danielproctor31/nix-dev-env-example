@@ -9,7 +9,7 @@ Created as an example of using nix-shell for dev environments.
 ## Benefits
 
 - Reproducible dev environments without having to install dependencies on your system.
-- An alternative to use docker dev containers which can have reduced performance and impact battery life.
+- An alternative to using docker dev containers which can have reduced performance and impact battery life.
 
 ## Usage
 
